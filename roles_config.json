@@ -1,0 +1,4 @@
+{
+        "ec2": "arn:aws:iam::127166685370:role/EC2DebugRole",
+        "s3": "arn:aws:iam::127166685370:role/S3DebugRole"
+}
